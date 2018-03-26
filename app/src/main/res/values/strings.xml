@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ViewpagerParallaxTransformer</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Content Title</string>
+    <string name="desc">A PageTransformer is invoked whenever a visible or attached page is
+        scrolled. This offers an opportunity for the application to apply a custom transformation to the page views using animation properties. As property animation is only supported as of Android 3.0 and forward, setting a PageTransformer on a ViewPager on earlier platform versions will be ignored.</string>
+
+</resources>
